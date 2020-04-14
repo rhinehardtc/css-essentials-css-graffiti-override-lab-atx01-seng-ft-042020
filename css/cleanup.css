@@ -14,10 +14,6 @@
   display:none;
 }
 
-#wall {
-  background-color: red;
-}
-
 #wall .parent {
   display:none;
 }
