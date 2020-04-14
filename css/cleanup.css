@@ -22,6 +22,10 @@ div#wall div.parent div:nth-child(2) {
   display:none;
 }
 
+div#wall div.parent div:nth-child(2) {
+  display:none;
+}
+
 
 
 
