@@ -18,3 +18,7 @@
   display:none;
 }
 
+#wall .parent:nthchild(2) {
+  display:none;
+}
+}
