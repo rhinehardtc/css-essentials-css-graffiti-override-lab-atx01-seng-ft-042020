@@ -14,6 +14,6 @@
   display:none;
 }
 
-#wall:nthchild(5) #tag-5 {
+#wall:nthchild(5) #tag-5.slick {
   display:none;
 }
